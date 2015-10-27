@@ -6,5 +6,12 @@
 	<classpathentry kind="lib" path="E:/本地jar包/asm-commons-2.2.3.jar"/>
 	<classpathentry kind="lib" path="E:/本地jar包/asm-util-2.2.3.jar"/>
 	<classpathentry kind="lib" path="E:/本地jar包/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.spring_4.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="me.spring"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/本地jar包/dubbo-2.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/本地jar包/javassist.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
