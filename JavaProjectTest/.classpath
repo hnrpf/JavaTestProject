@@ -13,5 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="E:/本地jar包/dubbo-2.5.2.jar"/>
 	<classpathentry kind="lib" path="E:/本地jar包/javassist.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
