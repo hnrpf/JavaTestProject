@@ -16,6 +16,10 @@ public class SubListTest {
 		List<String> temp = list.subList(0, 2);
 		temp.clear();
 		System.out.println("after size: " + list.size());
+		
+		
+		Integer firstinmoney = new Integer(8);
+		System.out.println(firstinmoney>=8);
 	}
 	
 
